@@ -2,7 +2,7 @@
 
 ## Background
 
-Background for this project can be found [here](www.thecjthompson.com/docs/published/polyfeatures.pdf).
+Background for this project can be found [here](http://www.thecjthompson.com/docs/published/polyfeatures.pdf).
 
 ## License
 
